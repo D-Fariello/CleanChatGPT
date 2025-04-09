@@ -25,7 +25,7 @@ This project serves as a practical example for my professional portfolio.
 
 ## 📸 Mockup (Simulated UI)
 
-🔗 [Link to the Figma or Canva mockup](https://...)
+🔗 [View the mockup created on Figma](https://www.figma.com/design/zHPADpydPUn2EvVQJ9dIxx/chat-deletion-mockup?node-id=0-1&t=sGxFdy3zePy2fWiP-1)
 
 ## 📋 Documentation
 
